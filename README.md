@@ -1,2 +1,2 @@
-# Questoes de matematica em java
+# Questoes de matemática em java.
  
